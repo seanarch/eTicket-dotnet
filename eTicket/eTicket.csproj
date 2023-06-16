@@ -11,7 +11,6 @@
     <None Remove="Data\Enums\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Data\" />
     <Folder Include="Data\Enums\" />
   </ItemGroup>
   <ItemGroup>
